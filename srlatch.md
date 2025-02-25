@@ -26,3 +26,6 @@ Here is the diagram of an SR NOR
 
 <h3>Finally, this is reset. This is after you have your item and it knows you used the coin. When we flip the second swithc it resets the machine.</h3>
 
+![SR latch wiring](https://github.com/user-attachments/assets/8975bc2a-f6ea-4818-8bb4-f11d0f9f2aad)
+
+<h2>This is a diagram of what the wiring looks like for an SR Latch</h2>
