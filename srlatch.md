@@ -29,3 +29,7 @@ Here is the diagram of an SR NOR
 ![SR latch wiring](https://github.com/user-attachments/assets/8975bc2a-f6ea-4818-8bb4-f11d0f9f2aad)
 
 <h2>This is a diagram of what the wiring looks like for an SR Latch</h2>
+
+# Vending Machine
+
+<p>When building a vending machine circuit, you will need a capacitor because it will delay the reset. When you use a vending machine it doesn't reset right away because if it did you would not get your item. So we want to build this so that it delays it a few seconds and it has time to give you your item. </p>
