@@ -12,3 +12,17 @@ Here is the diagram of an SR NOR
 
 ![SR latch initial state](https://github.com/user-attachments/assets/68457a30-f72e-47fe-ad15-52cbfd925c39)
 ![Screenshot 2025-02-19 124305](https://github.com/user-attachments/assets/ed46522c-306d-4d0f-a5c1-80a7ab17b503)
+# SR Latch Examples
+
+![SR set](https://github.com/user-attachments/assets/224e76c9-dd53-4578-9426-b9c894184421)
+
+<h3>This is what set looks like. Set is when you insert the coing into the machine.</h3>
+
+![SR hold](https://github.com/user-attachments/assets/d7703607-10c1-4e7b-bf6f-1f59ffbe5a75)
+
+<h3>Now it remembers that we have the coin so it is "holding" the knowledge.</h3>
+
+![SR reset](https://github.com/user-attachments/assets/5c1dcab3-b072-4eb2-9ed9-e61c7c0f317e)
+
+<h3>Finally, this is reset. This is after you have your item and it knows you used the coin.</h3>
+
