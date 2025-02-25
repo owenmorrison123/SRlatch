@@ -16,13 +16,13 @@ Here is the diagram of an SR NOR
 
 ![SR set](https://github.com/user-attachments/assets/224e76c9-dd53-4578-9426-b9c894184421)
 
-<h3>This is what set looks like. Set is when you insert the coing into the machine.</h3>
+<h3>This is what set looks like. Set is when you insert the coing into the machine. The first switch is on representing that we just inserted a coin.</h3>
 
 ![SR hold](https://github.com/user-attachments/assets/d7703607-10c1-4e7b-bf6f-1f59ffbe5a75)
 
-<h3>Now it remembers that we have the coin so it is "holding" the knowledge.</h3>
+<h3>Now it remembers that we have the coin so it is "holding" the knowledge. We just turned off the first switch showing that it remembers the coin being inserted</h3>
 
 ![SR reset](https://github.com/user-attachments/assets/5c1dcab3-b072-4eb2-9ed9-e61c7c0f317e)
 
-<h3>Finally, this is reset. This is after you have your item and it knows you used the coin.</h3>
+<h3>Finally, this is reset. This is after you have your item and it knows you used the coin. When we flip the second swithc it resets the machine.</h3>
 
