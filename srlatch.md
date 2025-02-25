@@ -33,3 +33,12 @@ Here is the diagram of an SR NOR
 # Vending Machine
 
 <p>When building a vending machine circuit, you will need a capacitor because it will delay the reset. When you use a vending machine it doesn't reset right away because if it did you would not get your item. So we want to build this so that it delays it a few seconds and it has time to give you your item. </p>
+
+![vending machine explanation](https://github.com/user-attachments/assets/0a702760-1c42-406b-bc05-23035d06b133)
+
+<p>This is an explanation from the book about the vending machine. The 7408 number is known as an AND gate. The AND gate is a logic gate that can accept two or more inputs but gives out only one output. It can be implemented by using universal gates as well as diodes. In digital electronics, data transmissions and alarm circuits are monitored by using AND gates. Digital measuring instruments also use AND gates.(UNACADEMY)</p>
+
+![complete vending machine](https://github.com/user-attachments/assets/06346f8f-52a1-436a-9669-640197fdfb4e)
+
+<h2>The picture above is a complete vending machine with labels so that you know what is what and how it works.</h2>
+
