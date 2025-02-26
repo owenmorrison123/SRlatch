@@ -42,3 +42,10 @@ Here is the diagram of an SR NOR
 
 <h2>The picture above is a complete vending machine with labels so that you know what is what and how it works.</h2>
 
+# Sources
+
+Unacademy. (n.d.). AND gate. Unacademy. Retrieved February 26, 2025, from 
+    https://unacademy.com/content/jee/study-material/physics/and-gate/
+    
+Matthew Justice. (n.d.). How Computers Really Work. Retrieved February 26, 2025, from
+    https://platform.virdocs.com/read/1541540/16/#/4/14,/1:0,/1:0
