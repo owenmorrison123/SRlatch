@@ -44,6 +44,19 @@ Here is the diagram of an SR NOR
 
 ![DIY-Vending-Machine-Arduino-based-Mechatronics-Project-Cirucit-Schematic](https://github.com/user-attachments/assets/7637c3cd-315c-4f9f-b9ab-9a75b3faef37)
 
+![03535FBB-748C-4713-8991-39A6F6BF2195](https://github.com/user-attachments/assets/347e6976-0787-491e-8f1e-b9c576c8d2c7)
+
+<h2>SET</h2>
+
+![FFF62544-6B63-4E2C-91E7-96F826C82563](https://github.com/user-attachments/assets/d27620a3-06d4-42df-b076-9c579fc18ef2)
+
+<h2>VEND</h2>
+
+![3D16C8B1-4371-49E6-B076-DF4F681F06BB](https://github.com/user-attachments/assets/cb097d72-9d76-4399-b944-1e5f31af9dea)
+
+<h2>RESET</h2>
+
+
 # Sources
 
 Unacademy. (n.d.). AND gate. Unacademy. Retrieved February 26, 2025, from 
