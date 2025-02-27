@@ -36,11 +36,13 @@ Here is the diagram of an SR NOR
 
 ![vending machine explanation](https://github.com/user-attachments/assets/0a702760-1c42-406b-bc05-23035d06b133)
 
-<p>This is an explanation from the book about the vending machine. The 7408 number is known as an AND gate. The AND gate is a logic gate that can accept two or more inputs but gives out only one output. It can be implemented by using universal gates as well as diodes. In digital electronics, data transmissions and alarm circuits are monitored by using AND gates. Digital measuring instruments also use AND gates.(UNACADEMY)</p>
+<p>This is an explanation from the book about the vending machine. The 7408 number is known as an AND gate. The AND gate is a logic gate that can accept two or more inputs but gives out only one output. It can be implemented by using universal gates as well as diodes. In digital electronics, data transmissions and alarm circuits are monitored by using AND gates. Digital measuring instruments also use AND gates. The 7402 is a NOR gate (UNACADEMY)</p>
 
 ![complete vending machine](https://github.com/user-attachments/assets/06346f8f-52a1-436a-9669-640197fdfb4e)
 
 <h2>The picture above is a complete vending machine with labels so that you know what is what and how it works.</h2>
+
+![DIY-Vending-Machine-Arduino-based-Mechatronics-Project-Cirucit-Schematic](https://github.com/user-attachments/assets/7637c3cd-315c-4f9f-b9ab-9a75b3faef37)
 
 # Sources
 
@@ -49,3 +51,6 @@ Unacademy. (n.d.). AND gate. Unacademy. Retrieved February 26, 2025, from
     
 Matthew Justice. (n.d.). How Computers Really Work. Retrieved February 26, 2025, from
     https://platform.virdocs.com/read/1541540/16/#/4/14,/1:0,/1:0
+
+How To Mechatronics. (n.d.). DIY vending machine – Arduino-based mechatronics project. How To Mechatronics. 
+    https://howtomechatronics.com/projects/diy-vending-machine-arduino-based-mechatronics-project/
